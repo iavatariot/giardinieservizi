@@ -12,7 +12,7 @@ const services = [
     icon: TreeDeciduous,
     title: 'Squadratura Siepi',
     description: 'Taglio e modellatura di siepi con forme geometriche perfette: rotonde, rettangolari, squadrate. Precisione millimetrica.',
-    image: 'https://images.unsplash.com/photo-1599629954294-ea1110f6d6e6?w=800https://images.unsplash.com/photo-1588417874056-31b2c2e39abb?w=800&h=600&fit=croph=600https://images.unsplash.com/photo-1588417874056-31b2c2e39abb?w=800&h=600&fit=cropfit=crop',
+    image: 'https://images.unsplash.com/photo-1599629954294-ea1110f6d6e6?w=800&h=600&fit=crop',
   },
   {
     icon: Trees,
@@ -114,40 +114,40 @@ export default function Giardinaggio() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="relative h-64 rounded-2xl overflow-hidden shadow-xl group">
               <img
-                src="https://images.unsplash.com/photo-1588417874056-31b2c2e39abb?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop"
                 alt="Siepi rotonde"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-6">
                 <h4 className="text-white text-xl font-bold">Siepi Rotonde</h4>
-                <p className="text-white/90 text-sm">Forme sferiche eleganti</p>
+                <p className="text-white/90 text-sm">Forme sferiche perfette</p>
               </div>
             </div>
 
             <div className="relative h-64 rounded-2xl overflow-hidden shadow-xl group">
               <img
-                src="https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1534600738698-d5be35e4d3d6?w=600&h=400&fit=crop"
                 alt="Siepi rettangolari"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-6">
                 <h4 className="text-white text-xl font-bold">Siepi Rettangolari</h4>
-                <p className="text-white/90 text-sm">Linee pulite e moderne</p>
+                <p className="text-white/90 text-sm">Tagli geometrici precisi</p>
               </div>
             </div>
 
             <div className="relative h-64 rounded-2xl overflow-hidden shadow-xl group">
               <img
-                src="https://images.unsplash.com/photo-1587502537745-84b86da1204f?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1598902108854-10e335adac99?w=600&h=400&fit=crop"
                 alt="Siepi squadrate"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-6">
                 <h4 className="text-white text-xl font-bold">Siepi Squadrate</h4>
-                <p className="text-white/90 text-sm">Geometrie perfette</p>
+                <p className="text-white/90 text-sm">Linee nette e squadrate</p>
               </div>
             </div>
           </div>
@@ -155,7 +155,7 @@ export default function Giardinaggio() {
 
         {/* CTA */}
         <div className="text-center mt-16">
-          <a
+          
             href="#contatti"
             className="inline-block bg-primary-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-primary-700 transition-all transform hover:scale-105"
           >
