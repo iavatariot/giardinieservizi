@@ -12,7 +12,7 @@ const services = [
     icon: TreeDeciduous,
     title: 'Squadratura Siepi',
     description: 'Taglio e modellatura di siepi con forme geometriche perfette: rotonde, rettangolari, squadrate. Precisione millimetrica.',
-    image: 'https://images.unsplash.com/photo-1588417874056-31b2c2e39abb?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1599629954294-ea1110f6d6e6?w=800https://images.unsplash.com/photo-1588417874056-31b2c2e39abb?w=800&h=600&fit=croph=600https://images.unsplash.com/photo-1588417874056-31b2c2e39abb?w=800&h=600&fit=cropfit=crop',
   },
   {
     icon: Trees,
