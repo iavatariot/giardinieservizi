@@ -8,7 +8,7 @@ const services = [
     description: 'Trattamenti mirati contro zanzare tigre e comuni. Interventi larvicidi e adulticidi per eliminare il problema alla radice. Prodotti certificati a basso impatto ambientale.',
     color: 'bg-red-50 text-red-600',
     gradient: 'from-red-500 to-pink-600',
-    image: 'https://images.unsplash.com/photo-1591025207163-942350e47db2?w=800&h=600&fit=crop',
+    image: '/disinfestazionezanzare.png',
   },
   {
     icon: Rat,
@@ -16,7 +16,7 @@ const services = [
     description: 'Sistemi professionali di controllo e allontanamento roditori. Esche sicure, trappole meccaniche e monitoraggio costante. Interventi certificati per abitazioni e aziende.',
     color: 'bg-orange-50 text-orange-600',
     gradient: 'from-orange-500 to-red-600',
-    image: 'https://images.unsplash.com/photo-1628260412297-a3377e45006f?w=800&h=600&fit=crop',
+    image: '/derattizzazione.png',
   },
   {
     icon: MousePointerClick,
@@ -24,7 +24,7 @@ const services = [
     description: 'Eliminazione completa di blatte e scarafaggi con trattamenti gel, spray e nebulizzazione. Garanzia di risultato e follow-up programmato.',
     color: 'bg-amber-50 text-amber-600',
     gradient: 'from-amber-500 to-orange-600',
-    image: 'https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&h=600&fit=crop',
+    image: '/disinfestazione scarafaggi.png',
   },
 ]
 
